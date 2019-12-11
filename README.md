@@ -11,7 +11,7 @@ The SQL data base information is drawn form https://www.kaggle.com/laudanum/foot
 #### Four Tables in Database:
 ###### Matches:	            
 24625 x 9
-Match_ID, Div, Season, Date, HomeTeam, AwayTeam, FTHG, FTAG, FTR
+/n Match_ID, Div, Season, Date, HomeTeam, AwayTeam, FTHG, FTAG, FTR
 
 ###### Teams:	              
 468	x 8
