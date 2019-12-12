@@ -15,7 +15,8 @@
 
 The SQL data base information is drawn form https://www.kaggle.com/laudanum/footballdelphi
 
-#### Four Tables in Database:
+#### Four Tables in SQL Original Database:
+
 ##### Matches:	            
 24625 x 9
 
