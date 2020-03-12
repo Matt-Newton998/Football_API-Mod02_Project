@@ -1,6 +1,4 @@
-# Matt_Mod02_Project
-
-## Author: Matthew_Newton
+# Football_API's - Mod02_Project
 
 ### Introduction
 
